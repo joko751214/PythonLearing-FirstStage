@@ -1,4 +1,4 @@
 # PythonLearing-FirstStage
-import menu
+from student_projects import menu
 
-showmenu()
+show_menu()
